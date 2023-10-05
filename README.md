@@ -7,4 +7,4 @@ This repository contains my solutions to my tasks for internship at The Spark Fo
 The task is to develop A Linear Regression Model to predict a student's potential percentage based on their study hours invested.
 Language Used - Python
 
-![Task 1](https://user-images.githubusercontent.com/51845833/151953455-3edaebb4-6f58-4679-816a-a0c05b24a7dc.PNG)
+![Task 1](https://github.com/RAVI-CHANDRIKA-05/The-Sparks-Foundation-Internship-Tasks/tree/main/%25PREDICTION)
